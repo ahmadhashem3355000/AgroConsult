@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Notification Settings -->
+    <PreferenceCategory android:title="@string/notifications">
+        <CheckBoxPreference
+            android:key="pref_notifications_enabled"
+            android:title="@string/notifications"
+            android:defaultValue="true" />
+        <CheckBoxPreference
+            android:key="pref_order_notifications"
+            android:title="تنبيهات الطلبات"
+            android:defaultValue="true" />
+        <CheckBoxPreference
+            android:key="pref_message_notifications"
+            android:title="تنبيهات الرسائل"
+            android:defaultValue="true" />
+    </PreferenceCategory>
+
+    <!-- Privacy Settings -->
+    <PreferenceCategory android:title="@string/privacy">
+        <CheckBoxPreference
+            android:key="pref_location_sharing"
+            android:title="مشاركة الموقع"
+            android:defaultValue="true" />
+        <CheckBoxPreference
+            android:key="pref_profile_visibility"
+            android:title="ظهور الملف الشخصي"
+            android:defaultValue="true" />
+    </PreferenceCategory>
+
+    <!-- About -->
+    <PreferenceCategory android:title="@string/about_us">
+        <Preference
+            android:key="pref_version"
+            android:title="الإصدار"
+            android:summary="1.0.0" />
+    </PreferenceCategory>
+</PreferenceScreen>
