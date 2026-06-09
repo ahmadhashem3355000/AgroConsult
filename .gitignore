@@ -1,0 +1,38 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Local configuration file
+local.properties
+
+# ProGuard files
+proguard/
+*.pro
+
+# Log Files
+*.log
+LocalBuildInfo.java
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.classpath
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace

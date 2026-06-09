@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">أجرو كونسلت - الاستشارات الزراعية</string>
+    
+    <!-- Login & Register -->
+    <string name="login">دخول</string>
+    <string name="register">تسجيل جديد</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="phone">رقم الهاتف</string>
+    <string name="full_name">الاسم الكامل</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="forgot_password">هل نسيت كلمة المرور؟</string>
+    <string name="create_account">إنشاء حساب جديد</string>
+    <string name="login_with_google">دخول عبر جوجل</string>
+    <string name="dont_have_account">ليس لديك حساب؟</string>
+    <string name="already_have_account">هل لديك حساب بالفعل؟</string>
+    <string name="user_type">نوع المستخدم</string>
+    <string name="farmer">مزارع</string>
+    <string name="consultant">خبير استشاري</string>
+    <string name="seller">بائع منتجات</string>
+    
+    <!-- Main Navigation -->
+    <string name="home">الرئيسية</string>
+    <string name="marketplace">السوق</string>
+    <string name="consultations">الاستشارات</string>
+    <string name="messages">الرسائل</string>
+    <string name="profile">الملف الشخصي</string>
+    
+    <!-- Products -->
+    <string name="products">المنتجات</string>
+    <string name="add_product">إضافة منتج</string>
+    <string name="product_name">اسم المنتج</string>
+    <string name="product_description">وصف المنتج</string>
+    <string name="product_price">السعر</string>
+    <string name="product_category">الفئة</string>
+    <string name="product_quantity">الكمية المتاحة</string>
+    <string name="add_photos">إضافة صور</string>
+    <string name="buy_now">شراء الآن</string>
+    <string name="add_to_cart">إضافة للسلة</string>
+    <string name="cart">السلة</string>
+    <string name="checkout">الدفع</string>
+    
+    <!-- Consultations -->
+    <string name="book_consultation">حجز استشارة</string>
+    <string name="consultation_type">نوع الاستشارة</string>
+    <string name="consultation_duration">مدة الاستشارة</string>
+    <string name="consultation_price">سعر الاستشارة</string>
+    <string name="video_call">استشارة فيديو</string>
+    <string name="text_consultation">استشارة نصية</string>
+    <string name="audio_call">استشارة صوتية</string>
+    <string name="select_expert">اختر الخبير</string>
+    <string name="my_consultations">استشاراتي</string>
+    <string name="start_consultation">بدء الاستشارة</string>
+    <string name="end_consultation">إنهاء الاستشارة</string>
+    
+    <!-- Map -->
+    <string name="nearby_farmers">المزارعون القريبون</string>
+    <string name="nearby_consultants">الخبراء القريبون</string>
+    <string name="nearby_sellers">البائعون القريبون</string>
+    <string name="location">الموقع</string>
+    <string name="distance">المسافة</string>
+    <string name="my_location">موقعي</string>
+    
+    <!-- Payment -->
+    <string name="payment">الدفع</string>
+    <string name="payment_method">طريقة الدفع</string>
+    <string name="credit_card">بطاقة ائتمان</string>
+    <string name="debit_card">بطاقة خصم</string>
+    <string name="wallet">المحفظة الرقمية</string>
+    <string name="total_amount">الإجمالي</string>
+    <string name="order_total">إجمالي الطلب</string>
+    <string name="pay_now">ادفع الآن</string>
+    <string name="payment_successful">تم الدفع بنجاح</string>
+    <string name="order_confirmation">تأكيد الطلب</string>
+    <string name="order_id">رقم الطلب</string>
+    
+    <!-- Profile -->
+    <string name="edit_profile">تعديل الملف الشخصي</string>
+    <string name="my_orders">طلباتي</string>
+    <string name="my_sales">مبيعاتي</string>
+    <string name="my_products">منتجاتي</string>
+    <string name="ratings">التقييمات</string>
+    <string name="reviews">المراجعات</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="settings">الإعدادات</string>
+    <string name="notifications">الإشعارات</string>
+    <string name="privacy">الخصوصية</string>
+    <string name="terms">الشروط والأحكام</string>
+    <string name="about_us">حول التطبيق</string>
+    <string name="contact_us">تواصل معنا</string>
+    <string name="faq">الأسئلة الشائعة</string>
+    
+    <!-- Messages -->
+    <string name="new_message">رسالة جديدة</string>
+    <string name="send_message">إرسال</string>
+    <string name="type_message">اكتب رسالتك...</string>
+    <string name="no_messages">لا توجد رسائل</string>
+    <string name="message_sent">تم إرسال الرسالة</string>
+    <string name="online">متصل</string>
+    <string name="offline">غير متصل</string>
+    
+    <!-- Categories -->
+    <string name="vegetables">الخضروات</string>
+    <string name="fruits">الفواكه</string>
+    <string name="grains">الحبوب</string>
+    <string name="seeds">البذور</string>
+    <string name="fertilizers">الأسمدة</string>
+    <string name="pesticides">المبيدات</string>
+    <string name="equipment">المعدات الزراعية</string>
+    <string name="tools">الأدوات</string>
+    <string name="irrigation">أنظمة الري</string>
+    
+    <!-- Orders & Delivery -->
+    <string name="pending">قيد الانتظار</string>
+    <string name="confirmed">مؤكد</string>
+    <string name="processing">قيد المعالجة</string>
+    <string name="shipped">تم الشحن</string>
+    <string name="delivered">تم التسليم</string>
+    <string name="cancelled">ملغى</string>
+    <string name="track_order">تتبع الطلب</string>
+    <string name="delivery_address">عنوان التسليم</string>
+    <string name="estimated_delivery">موعد التسليم المتوقع</string>
+    
+    <!-- Ratings & Reviews -->
+    <string name="rate_product">تقييم المنتج</string>
+    <string name="rate_seller">تقييم البائع</string>
+    <string name="rate_consultant">تقييم الخبير</string>
+    <string name="write_review">كتابة مراجعة</string>
+    <string name="your_review">مراجعتك</string>
+    <string name="excellent">ممتاز</string>
+    <string name="good">جيد</string>
+    <string name="average">متوسط</string>
+    <string name="poor">سيء</string>
+    
+    <!-- General -->
+    <string name="success">نجح</string>
+    <string name="error">خطأ</string>
+    <string name="warning">تحذير</string>
+    <string name="info">معلومة</string>
+    <string name="loading">جاري التحميل...</string>
+    <string name="retry">إعادة محاولة</string>
+    <string name="cancel">إلغاء</string>
+    <string name="save">حفظ</string>
+    <string name="delete">حذف</string>
+    <string name="confirm">تأكيد</string>
+    <string name="search">بحث</string>
+    <string name="filter">تصفية</string>
+    <string name="sort">ترتيب</string>
+    <string name="rate">تقييم</string>
+    <string name="share">مشاركة</string>
+    <string name="favorite">المفضلة</string>
+    <string name="add_favorite">إضافة للمفضلة</string>
+    <string name="remove_favorite">إزالة من المفضلة</string>
+    <string name="continue_text">متابعة</string>
+    <string name="agree">أوافق</string>
+    <string name="disagree">لا أوافق</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="ok">حسناً</string>
+</resources>
